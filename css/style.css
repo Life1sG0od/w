@@ -1192,7 +1192,7 @@ body {
 }
 .news__items {
   display: flex;
-  background: url(/image/news/01.png) 0 0 no-repeat;
+  background: url(../image/news/01.png) 0 0 no-repeat;
   border-radius: 10px;
 }
 .news__item {
